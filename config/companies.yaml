@@ -1,0 +1,53 @@
+# Company career boards to scan directly (structured JSON, very reliable).
+# This is a BONUS layer on top of the 6 aggregators, which already scan the whole
+# remote market. It only ADDS these specific companies -- it never restricts anything.
+#
+# Find the slug in the board URL, e.g.:
+#   https://boards.greenhouse.io/gitlab   -> greenhouse: - gitlab
+#   https://jobs.lever.co/veeva           -> lever:      - veeva
+# A dead/wrong slug just prints a warning and is skipped; it never breaks the run.
+# All slugs below were verified live on 2026-07-22.
+
+greenhouse:
+  - gitlab
+  - elastic
+  - webflow
+  - cloudflare
+  - stripe
+  - databricks
+  - dropbox
+  - gusto
+  - asana
+  - figma
+  - coinbase
+  - robinhood
+  - reddit
+  - airbnb
+  - block
+  - pinterest
+  - discord
+  - lyft
+  - scaleai
+  - mercury
+
+lever:
+  - veeva
+  - shieldai
+  - octoenergy
+  - matchgroup
+  - tala
+
+# Ashby boards (jobs.ashbyhq.com/{slug}) -- also carry salary/compensation.
+ashby:
+  - ramp
+  - notion
+  - openai
+  - linear
+  - vanta
+  - posthog
+
+# SmartRecruiters companies (jobs.smartrecruiters.com/{slug}). Identifier is
+# case-sensitive; many big employers use it. Verify a slug returns postings.
+smartrecruiters:
+  - Visa
+  - Square

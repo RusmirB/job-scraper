@@ -1,0 +1,71 @@
+# Your QA/SDET matching profile. Edit freely — no code changes needed.
+# A job's score = sum of weights for every phrase found in its title/description/tags.
+
+# A job qualifies ONLY if its TITLE contains one of these (whole-word match).
+# This is the key filter: it keeps real QA/test roles and drops DevOps / Product /
+# Data Engineer roles that merely *mention* testing in their description.
+title_must_match:
+  - qa
+  - sdet
+  - tester
+  - test automation
+  - test engineer
+  - test analyst
+  - automation engineer
+  - quality assurance
+  - quality engineer
+  - quality analyst
+  - qa engineer
+  - qa automation
+
+# A job is DROPPED if it contains ANY of these.
+excluded:
+  - on-site only
+  - onsite only
+  - us citizens only
+  - security clearance
+  - unpaid
+  - internship
+  - intern (
+  - manual testing only
+  # hardware / aerospace "test engineer" roles -- right words, wrong domain (not software QA)
+  - propulsion
+  - vibration
+  - flight test
+  - avionics
+  - mechanical test
+  - structural test
+  - hardware test
+
+# Points added per phrase found. Tune to your stack.
+weights:
+  playwright: 25
+  cypress: 15
+  selenium: 10
+  pytest: 15
+  python: 15
+  api testing: 15
+  rest api: 8
+  etl: 15
+  data quality: 15
+  data pipeline: 10
+  sql: 10
+  ci/cd: 10
+  jenkins: 5
+  github actions: 5
+  docker: 5
+  aws: 8
+  sdet: 20
+  senior: 10
+  lead: 8
+  # Location bonuses / penalties (matched in title+location+description)
+  worldwide: 20
+  anywhere: 15
+  europe: 20
+  emea: 15
+  us only: -50
+  usa only: -50
+  united states only: -50
+
+# Only jobs scoring >= this end up in the report.
+min_score: 40
