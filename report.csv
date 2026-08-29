@@ -1,5 +1,1 @@
 score,title,company,salary,location,source,posted,url,why
-113,Software Test Engineer,Bright Vision Technologies,"USD 105,000 - 125,000",Remote,RemoteJobs.org,2026-08-29,https://remotejobs.org/remote-jobs/software-test-engineer-bright-vision-technologies-himala,+25 playwright; +15 cypress; +10 selenium; +15 python; +10 sql; +10 ci/cd; +8 aws; +20 sdet
-73,Backend QA Engineer,Jobgether,,Germany,Arbeitnow,2026-08-29,https://www.arbeitnow.com/jobs/companies/jobgether/backend-qa-engineer-germany-278857,+25 playwright; +15 api testing; +10 sql; +10 ci/cd; +5 docker; +8 aws
-71,Salesforce Data Quality Engineer,i4DM,,Remote,RemoteJobs.org,2026-08-29,https://remotejobs.org/remote-jobs/salesforce-data-quality-engineer-i4dm,+15 api testing; +15 etl; +15 data quality; +10 sql; +8 aws; +8 lead
-63,"ETL Test Engineer (Remote, KA, IN)",NTT DATA,,Remote,RemoteJobs.org,2026-08-29,https://remotejobs.org/remote-jobs/etl-test-engineer-remote-ka-in-ntt-data,+15 etl; +15 data quality; +10 sql; +10 ci/cd; +5 github actions; +8 lead
