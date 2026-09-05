@@ -1,2 +1,4 @@
 score,title,company,salary,location,source,posted,url,why
-78,QA Test Analyst (Automation) | AU | WFH,Staff Domain Inc.,,Remote,RemoteJobs.org,2026-09-05,https://remotejobs.org/remote-jobs/qa-test-analyst-automation-au-wfh-staff-domain-inc,+25 playwright; +10 selenium; +15 api testing; +10 sql; +10 ci/cd; +8 lead
+111,QA Engineer (f/m/d),idnow,,"Rennes, Ille-et-Vilaine",Arbeitnow,2026-09-05,https://www.arbeitnow.fr/jobs/companies/idnow/qa-engineer-rennes-ille-et-vilaine-59204,+25 playwright; +10 selenium; +15 python; +15 api testing; +8 rest api; +10 ci/cd; +8 lead; +20 europe
+105,QA Engineer,Kestra Technologies,,Europe,Arbeitnow,2026-09-05,https://www.arbeitnow.fr/jobs/companies/kestra-technologies/qa-engineer-villeneuve-dascq-302557,+25 playwright; +15 python; +10 data pipeline; +10 ci/cd; +5 docker; +20 worldwide; +20 europe
+103,Senior QA Engineer (f/m/d),idnow,,"Rennes, Ille-et-Vilaine",Arbeitnow,2026-09-05,https://www.arbeitnow.fr/jobs/companies/idnow/senior-qa-engineer-rennes-ille-et-vilaine-254760,+15 pytest; +15 python; +15 api testing; +10 data pipeline; +10 ci/cd; +10 senior; +8 lead; +20 europe
