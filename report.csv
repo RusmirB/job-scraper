@@ -1,4 +1,2 @@
 score,title,company,salary,location,source,posted,url,why
-101,QA Automation Engineer (QB - QA - 20260617),Celara,,Remote,RemoteJobs.org,2026-10-07,https://remotejobs.org/remote-jobs/qa-automation-engineer-qb-qa-20260617-celara-himala,+25 playwright; +10 selenium; +15 api testing; +8 rest api; +10 ci/cd; +5 docker; +20 sdet; +8 lead
-46,Senior QA Engineer (gn),Bikeleasing,,Remote Deutschland,Arbeitnow,2026-10-07,https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-80961,+10 selenium; +10 ci/cd; +8 aws; +10 senior; +8 lead
-46,Penetration Tester,Bishop Fox,,Remote,RemoteJobs.org,2026-10-07,https://remotejobs.org/remote-jobs/penetration-tester-bishop-fox,+15 python; +8 aws; +8 lead; +15 anywhere
+95,QA Automation Engineer,Turbalance,,"Heidelberg, GER",Arbeitnow,2026-10-07,https://www.arbeitnow.com/jobs/companies/turbalance/qa-automation-engineer-heidelberg-ger-436564,+15 pytest; +15 python; +10 data pipeline; +10 ci/cd; +5 jenkins; +5 github actions; +5 docker; +20 sdet; +10 senior
