@@ -1,8 +1,1 @@
 score,title,company,salary,location,source,posted,url,why
-103,QA Engineer,Npv,,Paris,Arbeitnow,2026-10-09,https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-107303,+25 playwright; +15 pytest; +15 python; +15 api testing; +10 ci/cd; +5 github actions; +10 senior; +8 lead
-128,Senior Quality Engineer,Stackadapt,"USD 120,000 - 165,000","Canada, USA",RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/senior-quality-engineer-stackadapt,+25 playwright; +15 cypress; +10 selenium; +15 python; +10 sql; +10 ci/cd; +5 jenkins; +5 github actions; +10 senior; +8 lead; +15 anywhere
-58,QA Engineer (Anywhere in Europe),PadSplit,"USD 20,000 - 30,000",Europe,RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/qa-engineer-anywhere-in-europe-padsplit,+15 api testing; +8 lead; +15 anywhere; +20 europe
-51,Junior QA Engineer - US Remote,PerfectServe,"USD 75,000 - 115,000",USA,RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/junior-qa-engineer-us-remote-perfectserve,+15 python; +10 ci/cd; +8 aws; +10 senior; +8 lead
-48,"Sr. Engineering Manager, SDET",Cribl,"USD 225,000 - 270,000",USA,RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/sr-engineering-manager-sdet-cribl,+10 ci/cd; +20 sdet; +10 senior; +8 lead
-46,"QA Analyst (Mexico, Remote)",Varicent,"MXN 450,900 - 591,700",Mexico,RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/qa-analyst-mexico-remote-varicent-154873,+8 rest api; +10 senior; +8 lead; +20 worldwide
-43,Software Test Engineer,Deepgram,"USD 150,000 - 220,000",USA,RemoteJobs.org,2026-10-08,https://remotejobs.org/remote-jobs/software-test-engineer-deepgram,+15 python; +10 ci/cd; +10 senior; +8 lead
